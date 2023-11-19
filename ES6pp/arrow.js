@@ -16,3 +16,5 @@ const result2 = add2(1,9)
 console.log(result2)
 
 console.log("Arrow Function")
+
+console.log("OK")
